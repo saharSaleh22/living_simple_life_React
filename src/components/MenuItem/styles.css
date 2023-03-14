@@ -1,0 +1,36 @@
+
+ nav li {
+    margin: 0.5em; ;
+  
+}
+
+nav ul li{
+    margin-left: 2em;
+    margin-top: 2em;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #C58940;
+    font-weight: 700;
+}
+
+nav a:hover,nav a:focus{
+    color: darkred;  
+}
+a{
+    color: chocolate;
+    font-weight: bold;
+
+}
+a:hover,
+a:focus{
+    color: darkred;
+}
+
+strong{
+font-weight: 700;
+}
+.current-page{
+   color: darkred; 
+
+}

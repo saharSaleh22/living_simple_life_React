@@ -1,0 +1,15 @@
+.article-feature{
+    border-bottom: #C58940 1px solid;
+    padding-bottom: 1em;
+    margin-bottom: 3em;
+    /* background: peachpuff; */
+}
+@media(min-width: 700px){
+
+    .article-feature{
+        display: flex;
+        flex-direction: column;
+
+    }
+ 
+} 

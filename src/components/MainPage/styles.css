@@ -1,0 +1,19 @@
+.container-flex{
+    flex-direction: column;
+    display:flex ;
+    justify-content: space-between;
+
+    /* flex-direction: column; */
+}
+
+.container{
+    width:90%;
+    max-width: 900px;
+    margin:0 auto ;
+}
+@media(min-width:900px){
+    .container-flex{
+        flex-direction: row;
+    }
+
+}

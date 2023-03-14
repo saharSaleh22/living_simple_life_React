@@ -1,0 +1,10 @@
+.widget-img{
+    order: -1;
+    padding-right: 5px;
+}
+img{
+    max-width: 100%;
+    display: block;
+
+
+}

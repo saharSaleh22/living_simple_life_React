@@ -1,0 +1,10 @@
+.article-recent-main{
+    order: 2;
+    }
+    @media(min-width: 700px){
+       
+        .article-recent-main{
+            width: 60%;
+    
+        }
+    } 

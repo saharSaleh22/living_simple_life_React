@@ -1,0 +1,17 @@
+.read-more,
+.article-info{
+    font-size: 0.875rem;
+
+}
+.read-more{
+    color: brown;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.read-more:hover,
+.read-more:focus{
+    color: #C58940;
+    text-decoration: underline;
+    font-weight: 700;
+}

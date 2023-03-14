@@ -1,0 +1,17 @@
+.widget-recent-post-title{
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(133, 68, 11);
+
+}
+
+.widget-recent-post{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 2px solid rgb(244, 181, 132);
+}
+.widget-recent-post:last-child{
+    border: 0;
+    margin: 0;
+
+}

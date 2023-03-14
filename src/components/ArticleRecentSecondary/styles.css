@@ -1,0 +1,10 @@
+.article-recent-secondary{
+    order: 1;
+}
+@media(min-width: 700px){
+
+    .article-recent-secondary{
+        width: 35%;
+        
+    }
+} 

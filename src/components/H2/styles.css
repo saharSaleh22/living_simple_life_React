@@ -1,0 +1,10 @@
+h2{
+    color: #C58940;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600; 
+    margin-top: 0;
+ }
+ .article-title{
+    font-size:1.5rem ;
+    font-family: 'Courier New', Courier, monospace;
+}
